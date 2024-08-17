@@ -1,0 +1,22 @@
+@charset "utf8";
+
+/*aqui posso por um comentario*/ 
+
+/*
+
+*/
+*{
+     /*vamos criar um rest de pagina, onde o css deve limpar as confiracoes*/
+}
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(202, 114, 174);
+    font-family:arial,helvetica,sans-serif;
+    margin:auto;
+    padding:auto;
+}
